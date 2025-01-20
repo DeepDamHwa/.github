@@ -18,18 +18,18 @@
 이 스터디는 실습을 통해 실무에서 적용할 수 있는 경험을 쌓는 것을 목표로 합니다. 
 <table align="center">
  <tr>
-    <td align="center"><a href="https://github.com/SihyunSeo"><img src="sources/시현_프로필.png" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/kangkings"><img src="sources/태성_프로필.png" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/706com"><img src="sources/동현_프로필.png" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/jimnyy"><img src="sources/지민_프로필.png" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/shinebyul"><img src="sources/별_프로필.png" width="150px;" alt=""></td>
+     <td align="center"><a href="https://github.com/SihyunSeo"><img src="sources/시현_프로필.png" width="150px;" alt=""></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/SihyunSeo"><b>서시현</b></td>
     <td align="center"><a href="https://github.com/kangkings"><b>강태성</b></td>
     <td align="center"><a href="https://github.com/706com"><b>곽동현</b></td>
     <td align="center"><a href="https://github.com/jimnyy"><b>도지민</b></td>
     <td align="center"><a href="https://github.com/shinebyul"><b>한별</b></td>
+    <td align="center"><a href="https://github.com/SihyunSeo"><b>서시현</b></td>
   </tr>
   </table>
 <br>
