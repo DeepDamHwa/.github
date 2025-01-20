@@ -15,11 +15,11 @@
 이 스터디는 실습을 통해 실무에서 적용할 수 있는 경험을 쌓는 것을 목표로 합니다. 
 <table align="center">
  <tr>
-    <td align="center"><a href="https://github.com/kangkings"><img src="sources/태성_프로필.png" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/706com"><img src="sources/동현_프로필.png" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/jimnyy"><img src="sources/지민_프로필.png" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/shinebyul"><img src="sources/별_프로필.png" width="150px;" alt=""></td>
-     <td align="center"><a href="https://github.com/SihyunSeo"><img src="sources/시현_프로필.png" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/kangkings"><img src="https://github.com/user-attachments/assets/87958dbd-8949-40ee-9d44-94b72a38220f" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/706com"><img src="https://github.com/user-attachments/assets/af86835f-63f8-470f-8a67-41d67b162a3d" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/jimnyy"><img src="https://github.com/user-attachments/assets/0525e556-b443-4e9c-bf02-fc1820eae111" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/shinebyul"><img src="https://github.com/user-attachments/assets/2e27dee2-7500-4ff1-ba30-62fe7b36de27" width="150px;" alt=""></td>
+     <td align="center"><a href="https://github.com/SihyunSeo"><img src="https://github.com/user-attachments/assets/b2fdab43-376c-476e-9e60-f240a04a9d4c" width="150px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kangkings"><b>강태성</b></td>
