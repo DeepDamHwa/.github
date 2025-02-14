@@ -12,7 +12,8 @@
 ## 팀원 소개
 > **딥담화 DeepDamHwa**<br>
 > 개발 기술스택을 주제로 매주 리뷰를 통해, 기술을 딥하게 학습하는 스터디 입니다. <br>
-이 스터디는 실습을 통해 실무에서 적용할 수 있는 경험을 쌓는 것을 목표로 합니다. 
+이 스터디는 실습을 통해 실무에서 적용할 수 있는 경험을 쌓는 것을 목표로 합니다.<br><br>
+> YouTube : https://www.youtube.com/@딥담화
 <table align="center">
  <tr>
     <td align="center"><a href="https://github.com/kangkings"><img src="https://github.com/user-attachments/assets/87958dbd-8949-40ee-9d44-94b72a38220f" width="150px;" alt=""></td>
@@ -27,6 +28,25 @@
     <td align="center"><a href="https://github.com/jimnyy"><b>도지민</b></td>
     <td align="center"><a href="https://github.com/shinebyul"><b>한별</b></td>
     <td align="center"><a href="https://github.com/SihyunSeo"><b>서시현</b></td>
+  </tr>
+  </table>
+<br>
+<br>
+<br>
+
+## 주요 활동 내역
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/DeepDamHwa/CDC_project"><b>CDC Project</b></td>
+    <td align="center">데이터 마이그레이션을 위한 준실시간성 CDC 시스템 구축</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.youtube.com/watch?v=3qetPOYcz9I"><b>Elastic Search</b></td>
+    <td align="center">ELK 개념 및 실습</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.youtube.com/watch?v=DomOSUJ4nEo"><b>Spring Batch</b></td>
+    <td align="center">Spring Batch 개념 및 실습</td>
   </tr>
   </table>
 <br>
